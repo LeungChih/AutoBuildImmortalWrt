@@ -45,6 +45,7 @@ PACKAGES="$PACKAGES wireless-tools"
 PACKAGES="$PACKAGES wpa-supplicant"
 PACKAGES="$PACKAGES hostapd"
 PACKAGES="$PACKAGES iwlwifi-firmware-ax101"
+PACKAGES="$PACKAGES luci-i18n-eqos-zh-cn"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
